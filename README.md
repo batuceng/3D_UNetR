@@ -4,7 +4,11 @@ This is the official repository for __"3D U-NetR: Low Dose Computed Tomography R
 The paper is online at: [[here]](https://arxiv.org/abs/2105.14130)
 
 ## Installation
-TBU
+The required Python libraries should be installed.
+
+```
+pip install -r requirements.txt
+```
 
 ## Training
 TBU
