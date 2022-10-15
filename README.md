@@ -1,4 +1,4 @@
-# 3D U-NetR Low Dose CT Reconstruction
+# 3D U-NetR: Low Dose CT Reconstruction
 This is the official repository for __"3D U-NetR: Low Dose Computed Tomography Reconstruction via Deep Learning and 3 Dimensional Convolutions"__.
 
 The paper is online at: [[here]](https://arxiv.org/abs/2105.14130)
