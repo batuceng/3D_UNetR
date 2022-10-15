@@ -11,11 +11,11 @@ pip install -r requirements.txt
 ```
 
 ## Demo
+Example real chest CT results from paper.
 
-![](image/img.pdf)
+![](doc/img.jpg)
 
-
-TBU
+Each row denoted as (a), (b), and (c) indicates a different real chest CT image. Columns (1-4) represent ground truth, FBP, 2D U-Net, and 3D U-NetR outputs, respectively.
 
 ## Reference
 
