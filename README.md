@@ -9,7 +9,7 @@ TBU
 
 ## Reference
 
-'''bibtex
+```bibtex
 @article{DBLP:journals/corr/abs-2105-14130,
   author    = {Doga Gunduzalp and
                Batuhan Cengiz and
@@ -27,4 +27,4 @@ TBU
   biburl    = {https://dblp.org/rec/journals/corr/abs-2105-14130.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-'''
+```
