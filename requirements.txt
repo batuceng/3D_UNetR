@@ -1,0 +1,7 @@
+numpy
+matplotlib
+torch
+torchvision
+tqdm
+dival
+torch-summary
