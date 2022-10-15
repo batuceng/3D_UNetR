@@ -1,1 +1,3 @@
-Download data from [link] & unzip to this folder
+Please download the dataset from the following link and copy them to this folder.
+
+Link for the models: https://drive.google.com/drive/folders/1Fx3bCn_isNjEYGqyKaUvMRk31L2k2itn?usp=sharing
