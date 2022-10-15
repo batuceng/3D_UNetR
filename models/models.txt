@@ -1,1 +1,0 @@
-trained model parameters are accessible from this folder.
