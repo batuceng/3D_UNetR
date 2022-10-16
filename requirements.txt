@@ -1,9 +1,9 @@
+notebook
+ipykernel
 numpy==1.21.6
 matplotlib==3.2.2
+tqdm
 torch==1.2.1
 torchvision==0.13.1
 dival==0.6.1
-tqdm
 torch-summary
-notebook
-ipykernel
